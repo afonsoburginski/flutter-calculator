@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627597210220",
+    "project_id": "portfolio-afonso",
+    "storage_bucket": "portfolio-afonso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627597210220:android:ce67cf8a422208c1bade49",
+        "android_client_info": {
+          "package_name": "com.flutter.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627597210220-3nko3rrvuhj76g3tsb45dq88311dbjtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgJmc6cWkkBXQ-jcLLXuvkbfs7aXdK1vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627597210220-3nko3rrvuhj76g3tsb45dq88311dbjtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
